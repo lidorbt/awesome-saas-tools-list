@@ -42,6 +42,7 @@
 * **[MailerLite](https://mailerlite.com)** – Email builder with automation, forms, and segmentation.
 * **[Drip](https://drip.com)** – E-commerce focused CRM and email marketing.
 * **[GetResponse](https://getresponse.com)** – Email and marketing automation platform with webinar tools.
+* **[OpenSparta](https://opensparta.com/en)** - Telegram marketing workspace for account/proxy operations and campaigns. Lead Radar ranks buying requests from selected communities with original-message evidence ($9/month).
 
 ### Developer & API Tools
 
